@@ -6,4 +6,4 @@ Course and Section: BSCPE 2-6
 
 Subject: Data Structures and Algorithms
 
-This file contains the output for Laboratory Activity #4.
+This file contains the output for Laboratory Activity #6.
